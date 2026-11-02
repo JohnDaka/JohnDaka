@@ -60,13 +60,4 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 
 ---
 
-### A note on this profile
-
-Most of what I've built over twelve years is closed source, and the current work is under NDA, so
-the contribution graph here is largely private repositories. If you want to read actual code
-rather than a list of technologies, [dakaio.com](https://dakaio.com) is the site I wrote end to
-end, front end and Go backend, and I'm happy to walk through any of it.
-
----
-
 **[dakaio.com](https://dakaio.com)** | [LinkedIn](https://www.linkedin.com/in/ivan-daka/) | ivan.daka@dakaio.com
