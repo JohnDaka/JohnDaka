@@ -1,0 +1,142 @@
+<svg viewBox="0 0 860 818" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">About Ivan Daka</title>
+<desc id="d">Career timeline, newest first: AI and Web3 exchange (2024 - now), Arkis (2023 - 2024), DreamWorks Animation (2020 - 2023), Luxoft (2019 - 2020), LogicManager (2018 - 2019), Software MacKiev (2016 - 2018), AdKernel (2015 - 2016), Code Red (2015), Squarespace (2014 - 2015), Deutsche Bank (2013 - 2014).</desc>
+<defs>
+  <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+    <stop offset="0%" stop-color="#0897f7" stop-opacity=".16"/>
+    <stop offset="100%" stop-color="#0897f7" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity=".7"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity=".08"/>
+  </linearGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#ffffff" stop-opacity=".14"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="soft" x="-200%" y="-200%" width="500%" height="500%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="halo" x="-20%" y="-80%" width="140%" height="260%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .year { font-size: 12px; fill: #8b8fa8; }
+    .now { fill: #e7e7f2; }
+    .co { font-size: 15px; font-weight: 600; fill: #ffffff; }
+    .role { font-size: 12.5px; }
+    .sep { fill: #4a4d66; }
+    .detail { font-size: 12px; fill: #8b8fa8; }
+    .focus { font-size: 12.5px; fill: #c7c9ea; }
+    /* The node of the job I am in now breathes; every other node is still. */
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .65; } 100% { transform: scale(2.8); opacity: 0; } }
+  </style>
+</defs>
+
+<rect x=".5" y=".5" width="859" height="817" rx="14" fill="#00030a" stroke="#1c2030"/>
+<rect x=".5" y=".5" width="859" height="817" rx="14" fill="url(#glow)"/>
+
+<text x="430" y="58" text-anchor="middle" class="mono" font-size="26" letter-spacing="10" fill="#ffffff" filter="url(#halo)">ABOUT ME</text>
+<text x="430" y="88" text-anchor="middle" class="sans" font-size="11.5" letter-spacing="2.5" fill="#7d8197">SENIOR AI ENGINEER · FULL STACK · 12+ YEARS · LLM · RAG · WEB3</text>
+<rect x="90" y="110" width="680" height="1" fill="url(#rule)"/>
+
+<!-- The line the career is drawn on, newest at the top. -->
+<rect x="221.25" y="150" width="1.5" height="468" fill="url(#rail)"/>
+
+<!-- 2024 - now: the exchange, under NDA -->
+<circle class="pulse" cx="222" cy="150" r="9" fill="#0897f7"/>
+<circle cx="222" cy="150" r="9" fill="#0897f7" fill-opacity=".14" stroke="#0897f7" stroke-opacity=".6"/>
+<circle cx="222" cy="150" r="4" fill="#0897f7" filter="url(#soft)"/>
+<text x="198" y="154" text-anchor="end" class="mono year now">2024 - now</text>
+<text x="246" y="148" class="sans"><tspan class="co">AI &amp; Web3 exchange</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#0897f7">Senior AI &amp; Web3 Engineer</tspan></text>
+<text x="246" y="166" class="sans detail">LLM fine-tuning · RAG · AI agents · real-time fraud detection · smart contracts</text>
+
+<!-- 2023 - 2024: Arkis -->
+<circle cx="222" cy="202" r="9" fill="#3cc8ff" fill-opacity=".12" stroke="#3cc8ff" stroke-opacity=".5"/>
+<circle cx="222" cy="202" r="4" fill="#3cc8ff" filter="url(#soft)"/>
+<text x="198" y="206" text-anchor="end" class="mono year">2023 - 2024</text>
+<text x="246" y="200" class="sans"><tspan class="co">Arkis</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#3cc8ff">Lead Software Engineer</tspan></text>
+<text x="246" y="218" class="sans detail">Institutional crypto prime broker from zero · $100M+ credit deployed, zero bad debt</text>
+
+<!-- 2020 - 2023: DreamWorks -->
+<circle cx="222" cy="254" r="9" fill="#facc15" fill-opacity=".12" stroke="#facc15" stroke-opacity=".5"/>
+<circle cx="222" cy="254" r="4" fill="#facc15" filter="url(#soft)"/>
+<text x="198" y="258" text-anchor="end" class="mono year">2020 - 2023</text>
+<text x="246" y="252" class="sans"><tspan class="co">DreamWorks Animation</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#facc15">Senior Software Engineer</tspan></text>
+<text x="246" y="270" class="sans detail">Artists' tools behind Puss in Boots and The Wild Robot · real-time 3D, WebAssembly</text>
+
+<!-- 2019 - 2020: Luxoft -->
+<circle cx="222" cy="306" r="9" fill="#ff3d71" fill-opacity=".12" stroke="#ff3d71" stroke-opacity=".5"/>
+<circle cx="222" cy="306" r="4" fill="#ff3d71" filter="url(#soft)"/>
+<text x="198" y="310" text-anchor="end" class="mono year">2019 - 2020</text>
+<text x="246" y="304" class="sans"><tspan class="co">Luxoft</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#ff3d71">Solution Architect (Team Lead)</tspan></text>
+<text x="246" y="322" class="sans detail">Olympic Channel real-time streaming · a healthcare platform under HIPAA and GDPR</text>
+
+<!-- 2018 - 2019: LogicManager -->
+<circle cx="222" cy="358" r="9" fill="#4ac368" fill-opacity=".12" stroke="#4ac368" stroke-opacity=".5"/>
+<circle cx="222" cy="358" r="4" fill="#4ac368" filter="url(#soft)"/>
+<text x="198" y="362" text-anchor="end" class="mono year">2018 - 2019</text>
+<text x="246" y="356" class="sans"><tspan class="co">LogicManager</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#4ac368">Senior Software Engineer (Team Lead)</tspan></text>
+<text x="246" y="374" class="sans detail">Led 11 engineers through the Flash-to-React rewrite, live under regulatory oversight</text>
+
+<!-- 2016 - 2018: Software MacKiev -->
+<circle cx="222" cy="410" r="9" fill="#5bc46b" fill-opacity=".12" stroke="#5bc46b" stroke-opacity=".5"/>
+<circle cx="222" cy="410" r="4" fill="#5bc46b" filter="url(#soft)"/>
+<text x="198" y="414" text-anchor="end" class="mono year">2016 - 2018</text>
+<text x="246" y="408" class="sans"><tspan class="co">Software MacKiev</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#5bc46b">Senior Software Engineer (Team Lead)</tspan></text>
+<text x="246" y="426" class="sans detail">Family Tree Maker microservices · education apps with a UK accessibility award</text>
+
+<!-- 2015 - 2016: AdKernel -->
+<circle cx="222" cy="462" r="9" fill="#f15a22" fill-opacity=".12" stroke="#f15a22" stroke-opacity=".5"/>
+<circle cx="222" cy="462" r="4" fill="#f15a22" filter="url(#soft)"/>
+<text x="198" y="466" text-anchor="end" class="mono year">2015 - 2016</text>
+<text x="246" y="460" class="sans"><tspan class="co">AdKernel</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#f15a22">Senior Software Engineer</tspan></text>
+<text x="246" y="478" class="sans detail">Programmatic advertising · ad serving, targeting and reporting on Node.js and Java</text>
+
+<!-- 2015: Code Red -->
+<circle cx="222" cy="514" r="9" fill="#ff4d4d" fill-opacity=".12" stroke="#ff4d4d" stroke-opacity=".5"/>
+<circle cx="222" cy="514" r="4" fill="#ff4d4d" filter="url(#soft)"/>
+<text x="198" y="518" text-anchor="end" class="mono year">2015</text>
+<text x="246" y="512" class="sans"><tspan class="co">Code Red</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#ff4d4d">Software Engineer</tspan></text>
+<text x="246" y="530" class="sans detail">E-commerce projects end to end · Java, PHP and Node on the server, React in the browser</text>
+
+<!-- 2014 - 2015: Squarespace -->
+<circle cx="222" cy="566" r="9" fill="#cfc7ba" fill-opacity=".12" stroke="#cfc7ba" stroke-opacity=".5"/>
+<circle cx="222" cy="566" r="4" fill="#cfc7ba" filter="url(#soft)"/>
+<text x="198" y="570" text-anchor="end" class="mono year">2014 - 2015</text>
+<text x="246" y="564" class="sans"><tspan class="co">Squarespace</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#cfc7ba">Software Engineer</tspan></text>
+<text x="246" y="582" class="sans detail">The platform core - the editor every customer builds their site in</text>
+
+<!-- 2013 - 2014: Deutsche Bank, through Luxoft -->
+<circle cx="222" cy="618" r="9" fill="#7d8fff" fill-opacity=".12" stroke="#7d8fff" stroke-opacity=".5"/>
+<circle cx="222" cy="618" r="4" fill="#7d8fff" filter="url(#soft)"/>
+<text x="198" y="622" text-anchor="end" class="mono year">2013 - 2014</text>
+<text x="246" y="616" class="sans"><tspan class="co">Deutsche Bank</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#7d8fff">Software Engineer, through Luxoft</tspan></text>
+<text x="246" y="634" class="sans detail">The internal risk platform, thousands of risk factors tracked live</text>
+
+<!-- What I work on now: the day job on the left, my own products on the right. -->
+<rect x="40" y="660" width="780" height="112" rx="10" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<text x="430" y="686" text-anchor="middle" class="mono" font-size="11" letter-spacing="4" fill="#7d8197">CURRENT FOCUS</text>
+
+<circle cx="74" cy="708" r="2.5" fill="#0897f7"/>
+<text x="86" y="712" class="sans focus">Production LLM systems - fine-tuning, RAG, AI agents</text>
+<circle cx="74" cy="730" r="2.5" fill="#0897f7"/>
+<text x="86" y="734" class="sans focus">Real-time risk and fraud detection in trading paths</text>
+<circle cx="74" cy="752" r="2.5" fill="#0897f7"/>
+<text x="86" y="756" class="sans focus">Smart contracts and DeFi infrastructure</text>
+
+<circle cx="474" cy="708" r="2.5" fill="#11edda"/>
+<text x="486" y="712" class="sans focus">DomainScout - an open-source MCP server</text>
+<circle cx="474" cy="730" r="2.5" fill="#2f80ff"/>
+<text x="486" y="734" class="sans focus">BelaDay - client bookings inside Telegram</text>
+<circle cx="474" cy="752" r="2.5" fill="#e2e5e8"/>
+<text x="486" y="756" class="sans focus">Futvero - sealed predictions, live at futvero.com</text>
+
+<text x="430" y="800" text-anchor="middle" class="sans" font-size="11.5" fill="#4a4d66">Building software since 2013 · dakaio.com</text>
+</svg>
