@@ -55,7 +55,7 @@
 <circle cx="222" cy="150" r="9" fill="#0897f7" fill-opacity=".14" stroke="#0897f7" stroke-opacity=".6"/>
 <circle cx="222" cy="150" r="4" fill="#0897f7" filter="url(#soft)"/>
 <text x="198" y="154" text-anchor="end" class="mono year now">2024 - now</text>
-<text x="246" y="148" class="sans"><tspan class="co">AI &amp; Web3 exchange</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#0897f7">Senior AI &amp; Web3 Engineer</tspan></text>
+<text x="246" y="148" class="sans"><tspan class="co">AI &amp; Web3 exchange</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#0897f7">Senior AI/ML Engineer</tspan></text>
 <text x="246" y="166" class="sans detail">LLM fine-tuning · RAG · AI agents · real-time fraud detection · smart contracts</text>
 
 <!-- 2023 - 2024: Arkis -->

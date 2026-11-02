@@ -16,7 +16,7 @@ constraints rather than in notebooks.
 
 ### What I'm doing now
 
-Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges.
+Senior AI/ML Engineer at one of the world's largest cryptocurrency exchanges.
 
 - Fine-tuned a proprietary LLM on internal and open source data for market and risk analysis,
   cutting manual review time by roughly **31%**
