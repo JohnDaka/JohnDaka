@@ -45,7 +45,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <tr>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/brain.svg?color=%238b949e" width="14"/> AI models</h4>
+<p><b><img src="https://api.iconify.design/lucide/brain.svg?color=%238b949e" width="14"/> AI models</b></p>
 <p>
 <img src="https://img.shields.io/badge/Claude-B86A50?style=flat-square&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-374151?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNTYyIDEwLjE4OGMuMjUtLjY4OC4zMTMtMS4zNzYuMjUtMi4wNjNjLS4wNjItLjY4Ny0uMzEyLTEuMzc1LS42MjUtMmMtLjU2Mi0uOTM3LTEuMzc1LTEuNjg3LTIuMzEyLTIuMTI1Yy0xLS40MzctMi4wNjMtLjU2Mi0zLjEyNS0uMzEyYy0uNS0uNS0xLjA2My0uOTM4LTEuNjg4LTEuMjVTMTEuNjg3IDIgMTEgMmE1LjE3IDUuMTcgMCAwIDAtMyAuOTM4Yy0uODc1LjYyNC0xLjUgMS41LTEuODEzIDIuNWMtLjc1LjE4Ny0xLjM3NS41LTIgLjg3NWMtLjU2Mi40MzctMSAxLTEuMzc1IDEuNTYyYy0uNTYyLjkzOC0uNzUgMi0uNjI1IDMuMDYzYTUuNDQgNS40NCAwIDAgMCAxLjI1IDIuODc0YTQuNyA0LjcgMCAwIDAtLjI1IDIuMDYzYy4wNjMuNjg4LjMxMyAxLjM3NS42MjUgMmMuNTYzLjkzOCAxLjM3NSAxLjY4OCAyLjMxMyAyLjEyNWMxIC40MzggMi4wNjIuNTYzIDMuMTI1LjMxM2MuNS41IDEuMDYyLjkzNyAxLjY4NyAxLjI1UzEyLjMxMiAyMiAxMyAyMmE1LjE3IDUuMTcgMCAwIDAgMy0uOTM3Yy44NzUtLjYyNSAxLjUtMS41IDEuODEyLTIuNWE0LjU0IDQuNTQgMCAwIDAgMS45MzgtLjg3NWMuNTYyLS40MzggMS4wNjItLjkzOCAxLjM3NS0xLjU2M2MuNTYyLS45MzcuNzUtMiAuNjI1LTMuMDYyYy0uMTI1LTEuMDYzLS41LTIuMDYzLTEuMTg4LTIuODc2bS03LjUgMTAuNWMtMSAwLTEuNzUtLjMxMy0yLjQzNy0uODc1YzAgMCAuMDYyLS4wNjMuMTI1LS4wNjNsNC0yLjMxMmEuNS41IDAgMCAwIC4yNS0uMjVhLjU3LjU3IDAgMCAwIC4wNjItLjMxM1YxMS4yNWwxLjY4OCAxdjQuNjI1YTMuNjg1IDMuNjg1IDAgMCAxLTMuNjg4IDMuODEzTTUgMTcuMjVjLS40MzgtLjc1LS42MjUtMS42MjUtLjQzOC0yLjVjMCAwIC4wNjMuMDYzLjEyNS4wNjNsNCAyLjMxMmEuNTYuNTYgMCAwIDAgLjMxMy4wNjNjLjEyNSAwIC4yNSAwIC4zMTItLjA2M2w0Ljg3NS0yLjgxMnYxLjkzN2wtNC4wNjIgMi4zNzVBMy43IDMuNyAwIDAgMSA3LjMxMiAxOWMtMS0uMjUtMS44MTItLjg3NS0yLjMxMi0xLjc1TTMuOTM3IDguNTYzYTMuOCAzLjggMCAwIDEgMS45MzgtMS42MjZ2NC43NTFjMCAuMTI0IDAgLjI1LjA2Mi4zMTJhLjUuNSAwIDAgMCAuMjUuMjVsNC44NzUgMi44MTNsLTEuNjg3IDFsLTQtMi4zMTNhMy43IDMuNyAwIDAgMS0xLjc1LTIuMjVjLS4yNS0uOTM3LS4xODgtMi4wNjIuMzEyLTIuOTM3TTE3Ljc1IDExLjc1bC00Ljg3NS0yLjgxMmwxLjY4Ny0xbDQgMi4zMTJjLjYyNS4zNzUgMS4xMjUuODc1IDEuNDM4IDEuNXMuNSAxLjMxMy40MzcgMi4wNjNhMy43IDMuNyAwIDAgMS0uNzUgMS45MzdjLS40MzcuNTYzLTEgMS0xLjY4NyAxLjI1di00Ljc1YzAtLjEyNSAwLS4yNS0uMDYzLS4zMTJjMCAwLS4wNjItLjEyNi0uMTg3LS4xODhtMS42ODctMi41cy0uMDYyLS4wNjItLjEyNS0uMDYybC00LTIuMzEzYy0uMTI1LS4wNjItLjE4Ny0uMDYyLS4zMTItLjA2MnMtLjI1IDAtLjMxMy4wNjJMOS44MTIgOS42ODhWNy43NWw0LjA2My0yLjM3NWMuNjI1LS4zNzUgMS4zMTItLjUgMi4wNjItLjVjLjY4OCAwIDEuMzc1LjI1IDIgLjY4OGMuNTYzLjQzNyAxLjA2MyAxIDEuMzEzIDEuNjI1cy4zMTIgMS4zNzUuMTg3IDIuMDYybS0xMC41IDMuNWwtMS42ODctMVY3LjA2M2MwLS42ODguMTg3LTEuNDM4LjU2Mi0yQzguMTg3IDQuNDM4IDguNzUgNCA5LjM3NSAzLjY4OGEzLjM3IDMuMzcgMCAwIDEgMi4wNjItLjMxM2MuNjg4LjA2MyAxLjM3NS4zNzUgMS45MzguODEzYzAgMC0uMDYzLjA2Mi0uMTI1LjA2MmwtNCAyLjMxM2EuNS41IDAgMCAwLS4yNS4yNWMtLjA2My4xMjUtLjA2My4xODctLjA2My4zMTJ6bS44NzUtMkwxMiA5LjVsMi4xODcgMS4yNXYyLjVMMTIgMTQuNWwtMi4xODgtMS4yNXoiLz48L3N2Zz4%3D&logoColor=white"/>
@@ -60,7 +60,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 </td>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238b949e" width="14"/> AI engineering</h4>
+<p><b><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238b949e" width="14"/> AI engineering</b></p>
 <p>
 <img src="https://img.shields.io/badge/LLM%20fine--tuning-0F766E?style=flat-square"/>
 <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-0F766E?style=flat-square"/>
@@ -80,7 +80,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <tr>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/cpu.svg?color=%238b949e" width="14"/> Backend</h4>
+<p><b><img src="https://api.iconify.design/lucide/cpu.svg?color=%238b949e" width="14"/> Backend</b></p>
 <p>
 <img src="https://img.shields.io/badge/Node.js-3E7C4A?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-BE3458?style=flat-square&logo=nestjs&logoColor=white"/>
@@ -98,7 +98,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 </td>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/panel-top.svg?color=%238b949e" width="14"/> Frontend</h4>
+<p><b><img src="https://api.iconify.design/lucide/panel-top.svg?color=%238b949e" width="14"/> Frontend</b></p>
 <p>
 <img src="https://img.shields.io/badge/React-4B9ECF?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-B52E3E?style=flat-square&logo=angular&logoColor=white"/>
@@ -122,7 +122,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <tr>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/database.svg?color=%238b949e" width="14"/> Data</h4>
+<p><b><img src="https://api.iconify.design/lucide/database.svg?color=%238b949e" width="14"/> Data</b></p>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-40648D?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4E7296?style=flat-square&logo=mysql&logoColor=white"/>
@@ -137,7 +137,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 </td>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/boxes.svg?color=%238b949e" width="14"/> Web3</h4>
+<p><b><img src="https://api.iconify.design/lucide/boxes.svg?color=%238b949e" width="14"/> Web3</b></p>
 <p>
 <img src="https://img.shields.io/badge/Solidity-4B5563?style=flat-square&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-4F46E5?style=flat-square&logo=ethereum&logoColor=white"/>
@@ -152,9 +152,11 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <tr>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/server.svg?color=%238b949e" width="14"/> Infra</h4>
+<p><b><img src="https://api.iconify.design/lucide/server.svg?color=%238b949e" width="14"/> Infra</b></p>
 <p>
 <img src="https://img.shields.io/badge/AWS-C97728?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNy42NCAxMC4zOGMwIC4yNS4wMi40NS4wNy42MmMuMDUuMTIuMTIuMjguMjEuNDZjLjA0LjA0LjA1LjEuMDUuMTVjMCAuMDctLjA0LjEzLS4xMy4ybC0uNDIuMjhjLS4wNi4wNC0uMTIuMDYtLjE3LjA2Yy0uMDcgMC0uMTMtLjA0LS4yLS4xYy0uMDktLjEtLjE3LS4yLS4yNC0uMzFjLS4wNi0uMTEtLjEzLS4yNC0uMi0uMzljLS41Mi42MS0xLjE3LjkyLTEuOTYuOTJjLS41NiAwLTEtLjE2LTEuMzMtLjQ4Yy0uMzItLjMyLS40OS0uNzUtLjQ5LTEuMjljMC0uNTUuMi0xIC42LTEuMzZjLjQxLS4zNC45NS0uNTIgMS42My0uNTJjLjIzIDAgLjQ0LjAyLjcxLjA2Yy4yMy4wMy41LjA4Ljc2LjE0di0uNDhjMC0uNTEtLjEtLjg0LS4zMS0xLjA3Yy0uMjItLjIxLS41Ny0uMy0xLjA4LS4zYy0uMjQgMC0uNDguMDMtLjcyLjA4Yy0uMjUuMDYtLjQ5LjEzLS43Mi4yM2MtLjExLjA0LS4yLjA3LS4yMy4wOGMtLjA1LjAyLS4wOC4wMi0uMTEuMDJjLS4wOSAwLS4xNC0uMDYtLjE0LS4ydi0uMzNjMC0uMS4wMS0uMTguMDUtLjIzcS4wNDUtLjA3NS4xOC0uMTJjLjI0LS4xNC41MS0uMjQuODQtLjMyYTQgNCAwIDAgMSAxLjA0LS4xM3ExLjE4NSAwIDEuNzQuNTRjLjM3LjM2LjU1LjkxLjU1IDEuNjR2Mi4xNXptLTIuNyAxLjAyYy4yMiAwIC40NC0uMDQuNjgtLjEycy40NS0uMjMuNjMtLjQzYy4xMS0uMTMuMTktLjI3LjI1LS40M2MwLS4xNi4wNS0uMzUuMDUtLjU4di0uMjdjLS4yLS4wNy0uNC0uMDctLjYyLS4xMmE3IDcgMCAwIDAtLjYyLS4wNGMtLjQ1IDAtLjc3LjA5LS45OS4yN3MtLjMyLjQzLS4zMi43NmMwIC4zMi4wNy41Ni4yNC43MWMuMTYuMTcuMzkuMjUuNy4yNW01LjM0LjcxYS42LjYgMCAwIDEtLjI4LS4wNmMtLjAzLS4wNS0uMDgtLjE0LS4xMi0uMjZMOC4zMiA2LjY1Yy0uMDQtLjE1LS4wNi0uMjItLjA2LS4yN2MwLS4xMS4wNS0uMTcuMTYtLjE3aC42NWMuMTMgMCAuMjIuMDIuMjYuMDdjLjA2LjA0LjEuMTMuMTQuMjZsMS4xMSA0LjRsMS4wNC00LjRjLjAzLS4xMy4wNy0uMjIuMTMtLjI2Yy4wNS0uMDQuMTQtLjA3LjI1LS4wN2guNTVjLjEyIDAgLjIxLjAyLjI2LjA3Yy4wNS4wNC4xLjEzLjEzLjI2TDE0IDExbDEuMTQtNC40NmMuMDQtLjEzLjA5LS4yMi4xMy0uMjZjLjA2LS4wNC4xNC0uMDcuMjYtLjA3aC42MmMuMTEgMCAuMTcuMDYuMTcuMTdjMCAuMDMtLjAxLjA3LS4wMi4xMmMwIDAtLjAyLjA4LS4wNC4xNWwtMS42MSA1LjE0Yy0uMDQuMTQtLjA4LjIxLS4xNS4yNmMtLjA0LjA0LS4xMy4wNy0uMjQuMDdoLS41N2MtLjEzIDAtLjE5LS4wMi0uMjctLjA3YS40NS40NSAwIDAgMS0uMTItLjI2TDEyLjI3IDcuNWwtMS4wMyA0LjI4cS0uMDQ1LjE5NS0uMTIuMjdhLjUuNSAwIDAgMS0uMjcuMDZ6bTguNTUuMThjLS4zMyAwLS43LS4wNC0xLjAzLS4xMnMtLjU5LS4xNy0uNzYtLjI2YS41LjUgMCAwIDEtLjIxLS4xOWEuNC40IDAgMCAxLS4wNC0uMTh2LS4zNGMwLS4xNC4wNS0uMi4xNS0uMmguMTJjLjA0IDAgLjEuMDUuMTcuMDhjLjIyLjEuNDcuMTguNzMuMjNjLjI3LjA1LjU0LjA4Ljc5LjA4Yy40MiAwIC43NS0uMDcuOTctLjIyYy4yMy0uMTcuMzUtLjM2LjM1LS42M2MwLS4xOS0uMDctLjM0LS4xOC0uNDdjLS4xMi0uMTItLjM1LS4yNC0uNjctLjM0bC0uOTctLjNjLS40OC0uMTYtLjg0LS4zOC0xLjA2LS42OGExLjU4IDEuNTggMCAwIDEtLjMzLS45N2MwLS4yOC4wNi0uNTIuMTgtLjczYy4xMi0uMjIuMjgtLjQuNDYtLjU1Yy4yMi0uMTUuNDQtLjI2LjcxLS4zNHEuMzktLjEyLjg0LS4xMnEuMjEgMCAuNDUuMDNjLjE0LjAyLjI4LjA1LjQyLjA3Yy4xNC4wNC4yNi4wNy4zOC4xMXMuMi4wOC4yOC4xMmMuMDkuMDUuMTYuMS4yLjE2cy4wNi4xMy4wNi4yMnYuMzJxMCAuMjEtLjE1LjIxYy0uMDUgMC0uMTQtLjAzLS4yNi0uMDhjLS4zNy0uMTctLjgtLjI2LTEuMjctLjI2Yy0uMzggMC0uNjYuMDYtLjg5LjE5Yy0uMi4xMi0uMzEuMzItLjMxLjU5YzAgLjE5LjA3LjM1LjIuNDdjLjEzLjEzLjM4LjI1LjczLjM3bC45NS4zYy40OC4xNC44Mi4zNiAxLjAzLjY0cS4zLjQwNS4zLjkzYzAgLjI4LS4wNi41NC0uMTcuNzdjLS4xMi4yMi0uMjguNDItLjUuNThjLS4xOS4xNy0uNDQuMjktLjcyLjM4cy0uNjIuMTMtLjk1LjEzbTEuMjUgMy4yNEMxNy44OSAxNy4xNCAxNC43MSAxOCAxMiAxOGMtMy44NSAwLTcuMy0xLjQyLTkuOTEtMy43N2MtLjIxLS4xOS0uMDItLjQ0LjIzLS4yOWMyLjgyIDEuNjMgNi4yOSAyLjYyIDkuODkgMi42MmMyLjQzIDAgNS4xLS41IDcuNTUtMS41NmMuMzctLjE1LjY4LjI2LjMyLjUzTTIxIDE0LjVjLS4yOS0uMzctMS44Ni0uMTgtMi41Ny0uMWMtLjIxLjAzLS4yNC0uMTYtLjA1LS4zYzEuMjUtLjg3IDMuMzEtLjYgMy41NC0uMzNjLjI0LjMtLjA2IDIuMzYtMS4yMyAzLjM0Yy0uMTkuMTUtLjM2LjA3LS4yOC0uMTFjLjI3LS42OC44Ni0yLjE2LjU5LTIuNSIvPjwvc3ZnPg%3D%3D&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-3B6EA8?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-2F6FCF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTMuMDUgNC4yNEw2LjU2IDE4LjA1TDIgMThsNS4wOS04Ljc2em0uNyAxLjA5TDIyIDE5Ljc2SDYuNzRsOS4zLTEuNjZsLTQuODctNS43OXoiLz48L3N2Zz4%3D&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-3C83C9?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-C9652A?style=flat-square&logo=cloudflare&logoColor=white"/>
@@ -165,7 +167,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 </td>
 <td valign="top" width="50%">
 
-<h4><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</h4>
+<p><b><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</b></p>
 <p>
 <img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
