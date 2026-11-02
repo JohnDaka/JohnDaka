@@ -93,12 +93,20 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <h4><img src="https://api.iconify.design/lucide/panel-top.svg?color=%238b949e" width="14"/> Frontend</h4>
 <p>
 <img src="https://img.shields.io/badge/React-4B9ECF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-B52E3E?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-3E8E6B?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-6B4FA3?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux--Saga-4E8A3A?style=flat-square&logo=reduxsaga&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTK%20Query-6B4FA3?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Query-C2414F?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/React%20Context-4B9ECF?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-0E7490?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ant%20Design-2563C9?style=flat-square&logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-C9416E?style=flat-square&logo=storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebGL-8B2E2E?style=flat-square&logo=webgl&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-18181B?style=flat-square&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebAssembly-5A4FCF?style=flat-square&logo=webassembly&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-3F6FA8?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/database.svg?color=%238b949e" width="14"/> Data</h4>
