@@ -43,7 +43,7 @@
 <rect x=".5" y=".5" width="859" height="817" rx="14" fill="url(#glow)"/>
 
 <text x="430" y="58" text-anchor="middle" class="mono" font-size="26" letter-spacing="10" fill="#ffffff" filter="url(#halo)">ABOUT ME</text>
-<text x="430" y="88" text-anchor="middle" class="sans" font-size="11.5" letter-spacing="2.5" fill="#7d8197">SENIOR AI ENGINEER · FULL STACK · 12+ YEARS · LLM · RAG · WEB3</text>
+<text x="430" y="88" text-anchor="middle" class="sans" font-size="11.5" letter-spacing="2.5" fill="#7d8197">SENIOR AI ENGINEER · FULL STACK · 12+ YEARS · LLM · FINE-TUNING · RAG · AGENTS</text>
 <rect x="90" y="110" width="680" height="1" fill="url(#rule)"/>
 
 <!-- The line the career is drawn on, newest at the top. -->
@@ -120,23 +120,23 @@
 <text x="246" y="616" class="sans"><tspan class="co">Deutsche Bank</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#7d8fff">Software Engineer, through Luxoft</tspan></text>
 <text x="246" y="634" class="sans detail">The internal risk platform, thousands of risk factors tracked live</text>
 
-<!-- What I work on now: the day job on the left, my own products on the right. -->
+<!-- What I work on now: the models on the left, what gets built with them on the right. -->
 <rect x="40" y="660" width="780" height="112" rx="10" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
 <text x="430" y="686" text-anchor="middle" class="mono" font-size="11" letter-spacing="4" fill="#7d8197">CURRENT FOCUS</text>
 
 <circle cx="74" cy="708" r="2.5" fill="#0897f7"/>
-<text x="86" y="712" class="sans focus">Production LLM systems - fine-tuning, RAG, AI agents</text>
+<text x="86" y="712" class="sans focus">Frontier models in production - Claude, GPT, Gemini</text>
 <circle cx="74" cy="730" r="2.5" fill="#0897f7"/>
-<text x="86" y="734" class="sans focus">Real-time risk and fraud detection in trading paths</text>
+<text x="86" y="734" class="sans focus">Open-weight models - Qwen, Llama, DeepSeek, Mistral</text>
 <circle cx="74" cy="752" r="2.5" fill="#0897f7"/>
-<text x="86" y="756" class="sans focus">Smart contracts and DeFi infrastructure</text>
+<text x="86" y="756" class="sans focus">Fine-tuning local models - LoRA, QLoRA, Hugging Face</text>
 
-<circle cx="474" cy="708" r="2.5" fill="#11edda"/>
-<text x="486" y="712" class="sans focus">DomainScout - an open-source MCP server</text>
-<circle cx="474" cy="730" r="2.5" fill="#2f80ff"/>
-<text x="486" y="734" class="sans focus">BelaDay - client bookings inside Telegram</text>
-<circle cx="474" cy="752" r="2.5" fill="#e2e5e8"/>
-<text x="486" y="756" class="sans focus">Futvero - sealed predictions, live at futvero.com</text>
+<circle cx="474" cy="708" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="712" class="sans focus">Running models locally - Ollama, vLLM</text>
+<circle cx="474" cy="730" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="734" class="sans focus">RAG and AI agents over live data</text>
+<circle cx="474" cy="752" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="756" class="sans focus">Image and video generation pipelines in ComfyUI</text>
 
 <text x="430" y="800" text-anchor="middle" class="sans" font-size="11.5" fill="#4a4d66">Building software since 2013 · dakaio.com</text>
 </svg>
