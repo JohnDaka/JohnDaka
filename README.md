@@ -121,18 +121,6 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%238b949e" width="20"/> Public Contribution
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnDaka/JohnDaka/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnDaka/JohnDaka/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution grid, eaten by a snake" src="https://raw.githubusercontent.com/JohnDaka/JohnDaka/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
 ## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e" width="20"/> Working preferences
 
 - **Location:** Dubai, UTC+4. Worked California hours for two and a half years at DreamWorks from
