@@ -69,4 +69,4 @@ end, front end and Go backend, and I'm happy to walk through any of it.
 
 ---
 
-**[dakaio.com](https://dakaio.com)** | [LinkedIn](https://www.linkedin.com/in/ivan-daka/) | johnnydaka@gmail.com
+**[dakaio.com](https://dakaio.com)** | [LinkedIn](https://www.linkedin.com/in/ivan-daka/) | ivan.daka@dakaio.com
