@@ -87,6 +87,13 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Microservices-4B5563?style=flat-square"/>
 </p>
 
+<h4><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</h4>
+<p>
+<img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/grammY-2F8AC4?style=flat-square"/>
+</p>
+
 </td>
 <td valign="top" width="50%">
 
@@ -139,13 +146,6 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Cloudflare-C9652A?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx-2E7D4F?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2F6FCF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-
-<h4><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</h4>
-<p>
-<img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/grammY-2F8AC4?style=flat-square"/>
 </p>
 
 </td>
