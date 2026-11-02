@@ -1,6 +1,6 @@
-<svg viewBox="0 0 860 818" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<svg viewBox="0 0 860 714" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
 <title id="t">About Ivan Daka</title>
-<desc id="d">Career timeline, newest first: AI and Web3 exchange (2024 - now), Arkis (2023 - 2024), DreamWorks Animation (2020 - 2023), Luxoft (2019 - 2020), LogicManager (2018 - 2019), Software MacKiev (2016 - 2018), AdKernel (2015 - 2016), Code Red (2015), Squarespace (2014 - 2015), Deutsche Bank (2013 - 2014).</desc>
+<desc id="d">Career timeline, newest first: AI and Web3 exchange (2024 - now), Arkis (2023 - 2024), DreamWorks Animation (2020 - 2023), Luxoft (2019 - 2020), Software MacKiev / LogicManager (2016 - 2019), AdKernel (2015 - 2016), Squarespace (2014 - 2015), Deutsche Bank (2013 - 2014).</desc>
 <defs>
   <radialGradient id="glow" cx="50%" cy="0%" r="70%">
     <stop offset="0%" stop-color="#0897f7" stop-opacity=".16"/>
@@ -39,15 +39,16 @@
   </style>
 </defs>
 
-<rect x=".5" y=".5" width="859" height="817" rx="14" fill="#00030a" stroke="#1c2030"/>
-<rect x=".5" y=".5" width="859" height="817" rx="14" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="859" height="713" rx="14" fill="#00030a" stroke="#1c2030"/>
+<rect x=".5" y=".5" width="859" height="713" rx="14" fill="url(#glow)"/>
 
 <text x="430" y="58" text-anchor="middle" class="mono" font-size="26" letter-spacing="10" fill="#ffffff" filter="url(#halo)">ABOUT ME</text>
 <text x="430" y="88" text-anchor="middle" class="sans" font-size="11.5" letter-spacing="2.5" fill="#7d8197">SENIOR AI ENGINEER · FULL STACK · 12+ YEARS · LLM · FINE-TUNING · RAG · AGENTS</text>
 <rect x="90" y="110" width="680" height="1" fill="url(#rule)"/>
 
-<!-- The line the career is drawn on, newest at the top. -->
-<rect x="221.25" y="150" width="1.5" height="468" fill="url(#rail)"/>
+<!-- The line the career is drawn on, newest at the top. One node per employer, the way the CV
+     groups them: a company that changed its name is one stretch of years, not two short ones. -->
+<rect x="221.25" y="150" width="1.5" height="364" fill="url(#rail)"/>
 
 <!-- 2024 - now: the exchange, under NDA -->
 <circle class="pulse" cx="222" cy="150" r="9" fill="#0897f7"/>
@@ -78,65 +79,51 @@
 <text x="246" y="304" class="sans"><tspan class="co">Luxoft</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#ff3d71">Solution Architect (Team Lead)</tspan></text>
 <text x="246" y="322" class="sans detail">Olympic Channel real-time streaming · a healthcare platform under HIPAA and GDPR</text>
 
-<!-- 2018 - 2019: LogicManager -->
+<!-- 2016 - 2019: Software MacKiev / LogicManager, one employer under two names -->
 <circle cx="222" cy="358" r="9" fill="#4ac368" fill-opacity=".12" stroke="#4ac368" stroke-opacity=".5"/>
 <circle cx="222" cy="358" r="4" fill="#4ac368" filter="url(#soft)"/>
-<text x="198" y="362" text-anchor="end" class="mono year">2018 - 2019</text>
-<text x="246" y="356" class="sans"><tspan class="co">LogicManager</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#4ac368">Senior Software Engineer (Team Lead)</tspan></text>
-<text x="246" y="374" class="sans detail">Led 11 engineers through the Flash-to-React rewrite, live under regulatory oversight</text>
-
-<!-- 2016 - 2018: Software MacKiev -->
-<circle cx="222" cy="410" r="9" fill="#5bc46b" fill-opacity=".12" stroke="#5bc46b" stroke-opacity=".5"/>
-<circle cx="222" cy="410" r="4" fill="#5bc46b" filter="url(#soft)"/>
-<text x="198" y="414" text-anchor="end" class="mono year">2016 - 2018</text>
-<text x="246" y="408" class="sans"><tspan class="co">Software MacKiev</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#5bc46b">Senior Software Engineer (Team Lead)</tspan></text>
-<text x="246" y="426" class="sans detail">Family Tree Maker microservices · education apps with a UK accessibility award</text>
+<text x="198" y="362" text-anchor="end" class="mono year">2016 - 2019</text>
+<text x="246" y="356" class="sans"><tspan class="co">Software MacKiev / LogicManager</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#4ac368">Team Lead</tspan></text>
+<text x="246" y="374" class="sans detail">Led 11 engineers through the Flash-to-React rewrite · Family Tree Maker microservices</text>
 
 <!-- 2015 - 2016: AdKernel -->
-<circle cx="222" cy="462" r="9" fill="#f15a22" fill-opacity=".12" stroke="#f15a22" stroke-opacity=".5"/>
-<circle cx="222" cy="462" r="4" fill="#f15a22" filter="url(#soft)"/>
-<text x="198" y="466" text-anchor="end" class="mono year">2015 - 2016</text>
-<text x="246" y="460" class="sans"><tspan class="co">AdKernel</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#f15a22">Senior Software Engineer</tspan></text>
-<text x="246" y="478" class="sans detail">Programmatic advertising · ad serving, targeting and reporting on Node.js and Java</text>
+<circle cx="222" cy="410" r="9" fill="#f15a22" fill-opacity=".12" stroke="#f15a22" stroke-opacity=".5"/>
+<circle cx="222" cy="410" r="4" fill="#f15a22" filter="url(#soft)"/>
+<text x="198" y="414" text-anchor="end" class="mono year">2015 - 2016</text>
+<text x="246" y="408" class="sans"><tspan class="co">AdKernel</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#f15a22">Senior Software Engineer</tspan></text>
+<text x="246" y="426" class="sans detail">Programmatic advertising · ad serving, targeting and reporting on Node.js and Java</text>
 
-<!-- 2015: Code Red -->
-<circle cx="222" cy="514" r="9" fill="#ff4d4d" fill-opacity=".12" stroke="#ff4d4d" stroke-opacity=".5"/>
-<circle cx="222" cy="514" r="4" fill="#ff4d4d" filter="url(#soft)"/>
-<text x="198" y="518" text-anchor="end" class="mono year">2015</text>
-<text x="246" y="512" class="sans"><tspan class="co">Code Red</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#ff4d4d">Software Engineer</tspan></text>
-<text x="246" y="530" class="sans detail">E-commerce projects end to end · Java, PHP and Node on the server, React in the browser</text>
-
-<!-- 2014 - 2015: Squarespace -->
-<circle cx="222" cy="566" r="9" fill="#cfc7ba" fill-opacity=".12" stroke="#cfc7ba" stroke-opacity=".5"/>
-<circle cx="222" cy="566" r="4" fill="#cfc7ba" filter="url(#soft)"/>
-<text x="198" y="570" text-anchor="end" class="mono year">2014 - 2015</text>
-<text x="246" y="564" class="sans"><tspan class="co">Squarespace</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#cfc7ba">Software Engineer</tspan></text>
-<text x="246" y="582" class="sans detail">The platform core - the editor every customer builds their site in</text>
+<!-- 2014 - 2015: Squarespace, with the e-commerce work that was under another name -->
+<circle cx="222" cy="462" r="9" fill="#cfc7ba" fill-opacity=".12" stroke="#cfc7ba" stroke-opacity=".5"/>
+<circle cx="222" cy="462" r="4" fill="#cfc7ba" filter="url(#soft)"/>
+<text x="198" y="466" text-anchor="end" class="mono year">2014 - 2015</text>
+<text x="246" y="460" class="sans"><tspan class="co">Squarespace</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#cfc7ba">Software Engineer</tspan></text>
+<text x="246" y="478" class="sans detail">The editor every customer builds their site in · e-commerce projects end to end</text>
 
 <!-- 2013 - 2014: Deutsche Bank, through Luxoft -->
-<circle cx="222" cy="618" r="9" fill="#7d8fff" fill-opacity=".12" stroke="#7d8fff" stroke-opacity=".5"/>
-<circle cx="222" cy="618" r="4" fill="#7d8fff" filter="url(#soft)"/>
-<text x="198" y="622" text-anchor="end" class="mono year">2013 - 2014</text>
-<text x="246" y="616" class="sans"><tspan class="co">Deutsche Bank</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#7d8fff">Software Engineer, through Luxoft</tspan></text>
-<text x="246" y="634" class="sans detail">The internal risk platform, thousands of risk factors tracked live</text>
+<circle cx="222" cy="514" r="9" fill="#7d8fff" fill-opacity=".12" stroke="#7d8fff" stroke-opacity=".5"/>
+<circle cx="222" cy="514" r="4" fill="#7d8fff" filter="url(#soft)"/>
+<text x="198" y="518" text-anchor="end" class="mono year">2013 - 2014</text>
+<text x="246" y="512" class="sans"><tspan class="co">Deutsche Bank</tspan><tspan class="sep"> · </tspan><tspan class="role" fill="#7d8fff">Software Engineer, through Luxoft</tspan></text>
+<text x="246" y="530" class="sans detail">The internal risk platform, thousands of risk factors tracked live</text>
 
 <!-- What I work on now: the models on the left, what gets built with them on the right. -->
-<rect x="40" y="660" width="780" height="112" rx="10" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
-<text x="430" y="686" text-anchor="middle" class="mono" font-size="11" letter-spacing="4" fill="#7d8197">CURRENT FOCUS</text>
+<rect x="40" y="556" width="780" height="112" rx="10" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".08"/>
+<text x="430" y="582" text-anchor="middle" class="mono" font-size="11" letter-spacing="4" fill="#7d8197">CURRENT FOCUS</text>
 
-<circle cx="74" cy="708" r="2.5" fill="#0897f7"/>
-<text x="86" y="712" class="sans focus">Frontier models in production - Claude, GPT, Gemini</text>
-<circle cx="74" cy="730" r="2.5" fill="#0897f7"/>
-<text x="86" y="734" class="sans focus">Open-weight models - Qwen, Llama, DeepSeek, Mistral</text>
-<circle cx="74" cy="752" r="2.5" fill="#0897f7"/>
-<text x="86" y="756" class="sans focus">Fine-tuning local models - LoRA, QLoRA, Hugging Face</text>
+<circle cx="74" cy="604" r="2.5" fill="#0897f7"/>
+<text x="86" y="608" class="sans focus">Frontier models in production - Claude, GPT, Gemini</text>
+<circle cx="74" cy="626" r="2.5" fill="#0897f7"/>
+<text x="86" y="630" class="sans focus">Open-weight models - Qwen, Llama, DeepSeek, Mistral</text>
+<circle cx="74" cy="648" r="2.5" fill="#0897f7"/>
+<text x="86" y="652" class="sans focus">Fine-tuning local models - LoRA, QLoRA, Hugging Face</text>
 
-<circle cx="474" cy="708" r="2.5" fill="#3cc8ff"/>
-<text x="486" y="712" class="sans focus">Running models locally - Ollama, vLLM</text>
-<circle cx="474" cy="730" r="2.5" fill="#3cc8ff"/>
-<text x="486" y="734" class="sans focus">RAG and AI agents over live data</text>
-<circle cx="474" cy="752" r="2.5" fill="#3cc8ff"/>
-<text x="486" y="756" class="sans focus">Image and video generation pipelines in ComfyUI</text>
+<circle cx="474" cy="604" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="608" class="sans focus">Running models locally - Ollama, vLLM</text>
+<circle cx="474" cy="626" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="630" class="sans focus">RAG and AI agents over live data</text>
+<circle cx="474" cy="648" r="2.5" fill="#3cc8ff"/>
+<text x="486" y="652" class="sans focus">Image and video generation pipelines in ComfyUI</text>
 
-<text x="430" y="800" text-anchor="middle" class="sans" font-size="11.5" fill="#4a4d66">Building software since 2013 · dakaio.com</text>
+<text x="430" y="696" text-anchor="middle" class="sans" font-size="11.5" fill="#4a4d66">Building software since 2013 · dakaio.com</text>
 </svg>

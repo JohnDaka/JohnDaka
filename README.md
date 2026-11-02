@@ -12,7 +12,7 @@ constraints rather than in notebooks.
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%238b949e" width="20"/> About Me
 
-<img src="assets/about-me.svg" width="100%" alt="Career timeline, newest first: AI and Web3 exchange (2024 - now), Arkis (2023 - 2024), DreamWorks Animation (2020 - 2023), Luxoft (2019 - 2020), LogicManager (2018 - 2019), Software MacKiev (2016 - 2018), AdKernel (2015 - 2016), Code Red (2015), Squarespace (2014 - 2015), Deutsche Bank (2013 - 2014)"/>
+<img src="assets/about-me.svg" width="100%" alt="Career timeline, newest first: AI and Web3 exchange (2024 - now), Arkis (2023 - 2024), DreamWorks Animation (2020 - 2023), Luxoft (2019 - 2020), Software MacKiev / LogicManager (2016 - 2019), AdKernel (2015 - 2016), Squarespace (2014 - 2015), Deutsche Bank (2013 - 2014)"/>
 
 ### What I'm doing now
 
@@ -57,6 +57,9 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Hugging%20Face-B8860B?style=flat-square&logo=huggingface&logoColor=white"/>
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 <h4><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238b949e" width="14"/> AI engineering</h4>
 <p>
 <img src="https://img.shields.io/badge/LLM%20fine--tuning-0F766E?style=flat-square"/>
@@ -72,6 +75,11 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Fraud%20detection-7F1D1D?style=flat-square"/>
 </p>
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <h4><img src="https://api.iconify.design/lucide/cpu.svg?color=%238b949e" width="14"/> Backend</h4>
 <p>
 <img src="https://img.shields.io/badge/Node.js-3E7C4A?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -85,13 +93,6 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/BullMQ-B4473F?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSockets-4B5563?style=flat-square"/>
 <img src="https://img.shields.io/badge/Microservices-4B5563?style=flat-square"/>
-</p>
-
-<h4><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</h4>
-<p>
-<img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/grammY-2F8AC4?style=flat-square"/>
 </p>
 
 </td>
@@ -116,6 +117,11 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/WebAssembly-5A4FCF?style=flat-square&logo=webassembly&logoColor=white"/>
 </p>
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <h4><img src="https://api.iconify.design/lucide/database.svg?color=%238b949e" width="14"/> Data</h4>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-40648D?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -128,6 +134,9 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Hadoop-8A7A2E?style=flat-square&logo=apachehadoop&logoColor=white"/>
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 <h4><img src="https://api.iconify.design/lucide/boxes.svg?color=%238b949e" width="14"/> Web3</h4>
 <p>
 <img src="https://img.shields.io/badge/Solidity-4B5563?style=flat-square&logo=solidity&logoColor=white"/>
@@ -138,6 +147,11 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/DeFi%20lending-0F766E?style=flat-square"/>
 </p>
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 <h4><img src="https://api.iconify.design/lucide/server.svg?color=%238b949e" width="14"/> Infra</h4>
 <p>
 <img src="https://img.shields.io/badge/AWS-C97728?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNy42NCAxMC4zOGMwIC4yNS4wMi40NS4wNy42MmMuMDUuMTIuMTIuMjguMjEuNDZjLjA0LjA0LjA1LjEuMDUuMTVjMCAuMDctLjA0LjEzLS4xMy4ybC0uNDIuMjhjLS4wNi4wNC0uMTIuMDYtLjE3LjA2Yy0uMDcgMC0uMTMtLjA0LS4yLS4xYy0uMDktLjEtLjE3LS4yLS4yNC0uMzFjLS4wNi0uMTEtLjEzLS4yNC0uMi0uMzljLS41Mi42MS0xLjE3LjkyLTEuOTYuOTJjLS41NiAwLTEtLjE2LTEuMzMtLjQ4Yy0uMzItLjMyLS40OS0uNzUtLjQ5LTEuMjljMC0uNTUuMi0xIC42LTEuMzZjLjQxLS4zNC45NS0uNTIgMS42My0uNTJjLjIzIDAgLjQ0LjAyLjcxLjA2Yy4yMy4wMy41LjA4Ljc2LjE0di0uNDhjMC0uNTEtLjEtLjg0LS4zMS0xLjA3Yy0uMjItLjIxLS41Ny0uMy0xLjA4LS4zYy0uMjQgMC0uNDguMDMtLjcyLjA4Yy0uMjUuMDYtLjQ5LjEzLS43Mi4yM2MtLjExLjA0LS4yLjA3LS4yMy4wOGMtLjA1LjAyLS4wOC4wMi0uMTEuMDJjLS4wOSAwLS4xNC0uMDYtLjE0LS4ydi0uMzNjMC0uMS4wMS0uMTguMDUtLjIzcS4wNDUtLjA3NS4xOC0uMTJjLjI0LS4xNC41MS0uMjQuODQtLjMyYTQgNCAwIDAgMSAxLjA0LS4xM3ExLjE4NSAwIDEuNzQuNTRjLjM3LjM2LjU1LjkxLjU1IDEuNjR2Mi4xNXptLTIuNyAxLjAyYy4yMiAwIC40NC0uMDQuNjgtLjEycy40NS0uMjMuNjMtLjQzYy4xMS0uMTMuMTktLjI3LjI1LS40M2MwLS4xNi4wNS0uMzUuMDUtLjU4di0uMjdjLS4yLS4wNy0uNC0uMDctLjYyLS4xMmE3IDcgMCAwIDAtLjYyLS4wNGMtLjQ1IDAtLjc3LjA5LS45OS4yN3MtLjMyLjQzLS4zMi43NmMwIC4zMi4wNy41Ni4yNC43MWMuMTYuMTcuMzkuMjUuNy4yNW01LjM0LjcxYS42LjYgMCAwIDEtLjI4LS4wNmMtLjAzLS4wNS0uMDgtLjE0LS4xMi0uMjZMOC4zMiA2LjY1Yy0uMDQtLjE1LS4wNi0uMjItLjA2LS4yN2MwLS4xMS4wNS0uMTcuMTYtLjE3aC42NWMuMTMgMCAuMjIuMDIuMjYuMDdjLjA2LjA0LjEuMTMuMTQuMjZsMS4xMSA0LjRsMS4wNC00LjRjLjAzLS4xMy4wNy0uMjIuMTMtLjI2Yy4wNS0uMDQuMTQtLjA3LjI1LS4wN2guNTVjLjEyIDAgLjIxLjAyLjI2LjA3Yy4wNS4wNC4xLjEzLjEzLjI2TDE0IDExbDEuMTQtNC40NmMuMDQtLjEzLjA5LS4yMi4xMy0uMjZjLjA2LS4wNC4xNC0uMDcuMjYtLjA3aC42MmMuMTEgMCAuMTcuMDYuMTcuMTdjMCAuMDMtLjAxLjA3LS4wMi4xMmMwIDAtLjAyLjA4LS4wNC4xNWwtMS42MSA1LjE0Yy0uMDQuMTQtLjA4LjIxLS4xNS4yNmMtLjA0LjA0LS4xMy4wNy0uMjQuMDdoLS41N2MtLjEzIDAtLjE5LS4wMi0uMjctLjA3YS40NS40NSAwIDAgMS0uMTItLjI2TDEyLjI3IDcuNWwtMS4wMyA0LjI4cS0uMDQ1LjE5NS0uMTIuMjdhLjUuNSAwIDAgMS0uMjcuMDZ6bTguNTUuMThjLS4zMyAwLS43LS4wNC0xLjAzLS4xMnMtLjU5LS4xNy0uNzYtLjI2YS41LjUgMCAwIDEtLjIxLS4xOWEuNC40IDAgMCAxLS4wNC0uMTh2LS4zNGMwLS4xNC4wNS0uMi4xNS0uMmguMTJjLjA0IDAgLjEuMDUuMTcuMDhjLjIyLjEuNDcuMTguNzMuMjNjLjI3LjA1LjU0LjA4Ljc5LjA4Yy40MiAwIC43NS0uMDcuOTctLjIyYy4yMy0uMTcuMzUtLjM2LjM1LS42M2MwLS4xOS0uMDctLjM0LS4xOC0uNDdjLS4xMi0uMTItLjM1LS4yNC0uNjctLjM0bC0uOTctLjNjLS40OC0uMTYtLjg0LS4zOC0xLjA2LS42OGExLjU4IDEuNTggMCAwIDEtLjMzLS45N2MwLS4yOC4wNi0uNTIuMTgtLjczYy4xMi0uMjIuMjgtLjQuNDYtLjU1Yy4yMi0uMTUuNDQtLjI2LjcxLS4zNHEuMzktLjEyLjg0LS4xMnEuMjEgMCAuNDUuMDNjLjE0LjAyLjI4LjA1LjQyLjA3Yy4xNC4wNC4yNi4wNy4zOC4xMXMuMi4wOC4yOC4xMmMuMDkuMDUuMTYuMS4yLjE2cy4wNi4xMy4wNi4yMnYuMzJxMCAuMjEtLjE1LjIxYy0uMDUgMC0uMTQtLjAzLS4yNi0uMDhjLS4zNy0uMTctLjgtLjI2LTEuMjctLjI2Yy0uMzggMC0uNjYuMDYtLjg5LjE5Yy0uMi4xMi0uMzEuMzItLjMxLjU5YzAgLjE5LjA3LjM1LjIuNDdjLjEzLjEzLjM4LjI1LjczLjM3bC45NS4zYy40OC4xNC44Mi4zNiAxLjAzLjY0cS4zLjQwNS4zLjkzYzAgLjI4LS4wNi41NC0uMTcuNzdjLS4xMi4yMi0uMjguNDItLjUuNThjLS4xOS4xNy0uNDQuMjktLjcyLjM4cy0uNjIuMTMtLjk1LjEzbTEuMjUgMy4yNEMxNy44OSAxNy4xNCAxNC43MSAxOCAxMiAxOGMtMy44NSAwLTcuMy0xLjQyLTkuOTEtMy43N2MtLjIxLS4xOS0uMDItLjQ0LjIzLS4yOWMyLjgyIDEuNjMgNi4yOSAyLjYyIDkuODkgMi42MmMyLjQzIDAgNS4xLS41IDcuNTUtMS41NmMuMzctLjE1LjY4LjI2LjMyLjUzTTIxIDE0LjVjLS4yOS0uMzctMS44Ni0uMTgtMi41Ny0uMWMtLjIxLjAzLS4yNC0uMTYtLjA1LS4zYzEuMjUtLjg3IDMuMzEtLjYgMy41NC0uMzNjLjI0LjMtLjA2IDIuMzYtMS4yMyAzLjM0Yy0uMTkuMTUtLjM2LjA3LS4yOC0uMTFjLjI3LS42OC44Ni0yLjE2LjU5LTIuNSIvPjwvc3ZnPg%3D%3D&logoColor=white"/>
@@ -146,6 +160,16 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 <img src="https://img.shields.io/badge/Cloudflare-C9652A?style=flat-square&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx-2E7D4F?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2F6FCF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+<h4><img src="https://api.iconify.design/lucide/send.svg?color=%238b949e" width="14"/> Telegram</h4>
+<p>
+<img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/grammY-2F8AC4?style=flat-square"/>
 </p>
 
 </td>
@@ -166,7 +190,7 @@ Senior AI & Web3 Engineer at one of the world's largest cryptocurrency exchanges
 ## <img src="https://api.iconify.design/lucide/contact.svg?color=%238b949e" width="20"/> Let's connect
 
 <p align="center">
-<a href="https://dakaio.com"><img src="https://img.shields.io/badge/dakaio.com-0897F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="dakaio.com"/></a>
+<a href="https://dakaio.com"><img src="https://img.shields.io/badge/dakaio.com-1C2030?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAADAFBMVEUGAhUHAhsBAhIDBBwDAxMCARACAhIBBxoEAxYEAxUFAxUAAAwCAhMGAxUAEScAAA0AAQ8AAQ8BAhINBCoBBxwCBhsAAA4BAhACARAIAhgEAhMFDjgIAhUDAxUCAhICHEIAAAwGAhgAARACAxIOAxoBAxNHl%2F3iXuH0YsYWBh4CHEEAAA0AAA0AAA0AAhAAAA4CAhIRAyP2Z7sEAhkhCiYBBx4CFDoixfwEFkAAByDWXeYAECUCBxuTYP4EBBcOBisAAAsAAAEAAAkAARANAh4YAyM2pvxPkPwtsv0xrPsdWZw7oPzxX8oVBh3uXtEDCi0BDCcGH1MXFVOJYvpAHGlUhvsAAA0qRpoAAA0XAikXBjbrXc0KAhsbBCtbg%2FppdvsxA0Aptv1Anv4nuvwJBy7LXPAlvvsEDTQKCDUWByDgaq4lidMWYJ8cl9QADCEmCzQaBymuW%2FgSBSC%2BWvJOi%2FsBAApJkfsVAzEnS5z0brFCmP74a7R4OGMhUZkNBBkqEVpldPUJCjwkCysFCy3mXdU2ovxgfvf1ZMEECCpycvzqXtgpCysJET%2FFWvMCEzUXntMphNFAK4kDGEl4bPtMJYODZ%2FmiXPoFM2UxDy8CEy1%2BZ%2FoCCiIOAyeaXfwDDSa3WvRPHV2aX%2FUxHW4AAAEAAA0vQpmiT7otDj4lBkZ8NqbebKUlBTFBFzvdWc7XTb9Ni%2FI8AEVYiftVHk%2FOUtkvgNLbUs0MBjJLFlBwbPEJAhwmK3qVM6fgWtsudMLQW%2B1WXs7sY8fKT760U5lHbcyqW%2Fk4ecxcU8hkKoreW%2BR6Z%2FEmDj8LBCJDVboCBR1zF2%2BaOrgKKGCuXOy6PKTsba8JDESNQJFnFmNECktnLlgIFEmWTXo9CVgDBSSBP7uBScA4TaqdVvBpOrWsT6FYEGg7IXpKL48DFj1%2BKIngY8ZbRLKlVYTLZKBTRblVhvEYodQhj9KCPXcjkdUco9UujN4MZ5EPSJAGTXdBjuiaQZQUaZjNZKwttOrVXdg5EEkTBClHkfbdhf9gAAABAHRSTlOgwnbNkl17ppqpljacpNJLaVNj4ayjPn9vs63mtoeC6jDGR4nAc%2Fv7%2B8zlOzNCVziO3Pu628zj%2B%2BXI%2B8ue%2B5HJJQgST8jY%2B%2Fv6%2B%2Fb7%2B8f7ytDt6vvt%2By32IN7n%2BtTn%2B%2Fvs%2Bvv72%2Fv76OzS%2Bfj3%2BMXd0fu7%2B%2FsO%2B9z0%2Bvv67%2FSx7%2Fnp37z7%2B%2Fr61vv74tj72Pn49en79fr77unQ%2B7XQ%2B8L77frqBBr19%2Bnp9vnm6Pn4%2Be775%2Fn4%2BePv%2Bdnv9fr2%2B%2Fn7%2BPX4%2B%2Fn39vv56tT30vH35fr3%2Bun08%2B7r2fLt1%2Ff48Pn29fLz9N%2F2%2Bvbz9%2Fb6%2Bffz%2BPf58fPx%2BfD0%2BPr64dP6KnVpygAAAAlwSFlzAAAD6AAAA%2BgBtXtSawAAA%2BhJREFUOMsl03VYW1cYB%2BBzb5KbGyNCnCSFJBASYiQ4IQWCW6AUhnthSHGpQrGiY0ChlEGx%2Brb61q7uts7dfZ2769Nz09%2F5932%2Bc853vgOMqAqn8qlUKo3GggsG0HGyCKWwDYzI6Kg9wJvOr5%2Bdna2vDwwMhSGRSAiCyFhmkTeF7QcFkFMXgn7%2Fa%2BZexVhVVVX3wzCn3P0LEAkgizhGYWQbsM%2BN%2FRoc%2FM%2FM5MyFGzeuXbt06eZXn3flud9FpDgUjL3AtqD7OTi4si5jPNkn%2FnhR8dBjmRHLH6zNy42R0DGxIxsIwld9H1xZXpfxS5lPfNH2oR3TmRE7r7986NlchEYW8YRA4EaA0rqM3%2F44%2Bt32bc%2FcmY7YvbNp8ZH9B2LVLLOYTYBHK8sT6iZDJjMy1sB0ffbxR00t6y7uP1AtY2FGYIOgvDQhKWQw3el0pg8OVlTkdb3fsi5M83pPjEzFA3y3VetLExKTgtKtfIGAKrFakfmOg4cgOLzUqGaKH4BECEIFdrlCJDeTcUlMx8EXwzR9nzRopQpAdYG4pKBAHONxHWwuDzXTkI53T2r6vjxdLbPDCrr1CXEQhJJRh9BkEiopKFkyn3dOM3z5xwA1nQA%2FJcYlb%2FUIxMUGhqen3sTmKUBM7qea4ZSrPakAUGd1PyT2E4ApVpqysz09%2FbgYE8k9dj7N9%2B8RLQThutq4ZJ8NEHhzTbACBCKA%2BJc8neZbs0vLcoH%2BMghIEBj0DIbeQFEAdWzJkZSBml3VNKKTtf2b2h%2FyIOGoUWkyMRgOjgpYY0sOp1hcgOoWUptMgEA6RmELTX4GI4rT1LHH8n0t34wQW6TrxuE7QsBUcLhsJZeDqoAkJveFtIHNXwfAWwjCQ8bL2lvhFiwzJuZwMBWZKVX7P%2FFKimXjloBmnABPbYrP2ufxvAw3k8l0Jktq9bpb%2BEa%2B7%2BbHn4yVkV3ApzVrX%2Fd7CI0mlUqsXqQC%2F8I3j%2FhaNr4zopXKgb3%2B3oX21qLnXqsgecGQCs6c8S88fcVVAHYaA9jc2Nb4rKJtZ7tPVbi7UljyBWyS5dW3AlJpKgx425wvHT0OZ%2B3biYmJqampW7fOnTzfR5ywJ7WTLqYAnoo%2FuqGouHgHnOaI3dcXWy6G3R7OH6jZ0qOVAQVFCZSorfftD4uHCOCa1rDbmrTLV08EaCW4XMxlAL1RLugdPXvzznTm8nLTIhzGf6%2F8eaKhUd1JRzkUYQ7I8ePIbb3O0TUrKytrYZaW%2FmtobEyVsHAFhWuIjAZtOUKKt10wt7CayPz%2Fjaubm5s7gV2O8R583qi2vdlKHqqw4zhOtwkAADj8%2FpiY5zDoc6Kj9twHa687%2FAqkQUEAAAAASUVORK5CYII%3D" alt="dakaio.com"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ivan-daka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTkgM2EyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMnptLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMzIgMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTN6TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4YzAtLjkzLS43NS0xLjY5LTEuNjgtMS42OWExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY5YzAgLjkzLjc2IDEuNjggMS42OSAxLjY4bTEuMzkgOS45NHYtOC4zN0g1LjV2OC4zN3oiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
